@@ -4,15 +4,15 @@ Datos personales
 - Alumno de la E.E.S.T N°1
 - Email: Federicoitravella@gmail.com
 
-FrontEnd:
+🍔FrontEnd:
 
 [![My Skills](https://skillicons.dev/icons?i=css,ps)](https://skillicons.dev)
 
-BackEnd: 
+🏎BackEnd: 
 
 [![My Skills](https://skillicons.dev/icons?i=js,vscode,html,bootstrap,dotnet)](https://skillicons.dev)
 
-Base de Datos:
+🎰Base de Datos:
 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
