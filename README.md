@@ -4,5 +4,5 @@ Datos personales
 - Email: Federicoitravella@gmail.com
 
 FrontEnd
-[![My Skills](https://skillicons.dev/icons?i=js,ja,html,css,py](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,,html,css,](https://skillicons.dev)
 
