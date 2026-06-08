@@ -1,7 +1,9 @@
+Federico Ivan Travella 
+=======================================================
 Estudiante de 6.º año de escuela técnica N°1 con interés en la programación. Poseo conocimientos en desarrollo web, edición digital y manejo avanzado de herramientas informáticas.  
 Número de teléfono: 11 6429 1932 
 Correo: Federicoitravella@gmail.com 
-=======================================================
+
 Español: Nativo  
 inglés: C2  
 portugués: C1
