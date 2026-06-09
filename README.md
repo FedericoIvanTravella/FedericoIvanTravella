@@ -1,26 +1,71 @@
-Federico Ivan Travella 
-=======================================================
-Estudiante de 6.º año de escuela técnica N°1 con interés en la programación. Poseo conocimientos en desarrollo web, edición digital y manejo avanzado de herramientas informáticas.  
-Número de teléfono: 11 6429 1932
+👋 Hi, I'm Federico Travella
 
-Correo: Federicoitravella@gmail.com 
+💻 Aspiring Full-Stack Developer  
+🎓 Technical High School Student  
+🌍 Based in Argentina  
+🚀 Always learning new technologies
+==========================================
+ About Me
+=========================================
+I'm a 6th-year student at E.E.S.T n1, passionate about programming and technology.
 
-Español: Nativo  
-inglés: C2  
-portugués: C1
- 
-🍔FrontEnd:
+I have experience in:
 
-[![My Skills](https://skillicons.dev/icons?i=css,ps)](https://skillicons.dev)
+- Web Development
+- Digital Editing and Design
+- Computer Systems and IT Tools
+- Database Management
 
-🏎BackEnd: 
+Currently, I'm focused on improving my development skills and building new projects to expand my portfolio.
 
-[![My Skills](https://skillicons.dev/icons?i=js,vscode,html,bootstrap,dotnet)](https://skillicons.dev)
+---
 
-🎰Base de Datos:
+🌎 Languages
+
+- 🇦🇷 Spanish — Native
+- 🇬🇧 English — C1
+- 🇧🇷 Portuguese — A2
+
+---
+
+🎨 Front-End
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+
+---
+
+⚙️ Back-End & Development Tools
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,vscode)](https://skillicons.dev)
+
+---
+
+🗄️ Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-📲Me podes contactar por:
+---
+
+📚 Currently Learning
+
+- ASP.NET
+- Advanced JavaScript
+- Database Design
+- Responsive Web Design
+
+---
+
+📫 Contact Me
+
+📧 Email: Federicoitravella@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=discord,twitter)](https://skillicons.dev)
+
+---
+
+🚀 Goals
+
+- Build professional web applications
+- Expand my programming knowledge
+- Contribute to open-source projects
+- Continue growing as a developer
